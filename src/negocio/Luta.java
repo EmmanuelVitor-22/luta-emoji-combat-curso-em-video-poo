@@ -65,6 +65,7 @@ public class Luta {
                     //desafiado ganha çuta
                     desafiado.ganharLuta();
                     desafiante.perderLuta();
+
             }
         }else {
             System.out.println("Luta não pode acontecer");

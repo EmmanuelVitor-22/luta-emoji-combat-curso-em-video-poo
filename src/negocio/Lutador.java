@@ -9,6 +9,7 @@ public class Lutador {
     private double peso;
     // COMO AINDA NN SEI O TIPO VOU TIPAR INICIALMENTE COMO STRING
     private String categoria;
+
     private int vitoria;
     private int derrota;
     private int empate;
